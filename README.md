@@ -205,5 +205,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Okato Erhivwor Ogheneochuko** <[Julesswiss](https://github.com/Julesswiss)>
-* **Ilelaboye Kehinde Moses** <[](https://github.com/)>
+* **Kedishi Emmanuel Nicholas** <[Kedishi](https://github.com/Kedishi)>
+* 
